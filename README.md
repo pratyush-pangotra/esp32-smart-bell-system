@@ -14,7 +14,8 @@ An ESP32-based automated bell scheduling system designed for schools.
 - ESP32
 - Relay module
 - Siren / bell
-- Power supply
+- RTC Module
+- Power supply(12V)
 
 ## How it Works
 
